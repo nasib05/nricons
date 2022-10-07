@@ -60,7 +60,7 @@
     <icon drawable="@drawable/gcam" package="org.codeaurora.snapcam" name="gcam" />
     <icon drawable="@drawable/camera" package="org.lineageos.snap" name="Camera" />
     <icon drawable="@drawable/razer_camera" package="com.razer.camera" name="Razer Camera" />
-    <icon drawable="@drawable/razer_camera" package="com.razerzone.camera" name="Razer Camera" />
+    <icon drawable="@drawable/razer_camera" package="com.razerzone.mera" />
     <icon drawable="@drawable/camera_moto2" package="com.motorola.camera2" name="Moto Camera2" />
     <icon drawable="@drawable/camera_moto3" package="com.motorola.camera3" name="Moto Camera3" />
     <icon drawable="@drawable/camera_moto" package="com.motorola.camera" name="Moto Camera" />
